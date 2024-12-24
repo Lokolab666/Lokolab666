@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @Lokolab666
-- 👀 I’m interested in Star Wars, knowledge, and Front-end. RoR, Angular, BootStrap
-- 🌱 I’m currently learning anything
-- 💞️ I’m looking to collaborate on Agile Met or testing
-- 📫 How to reach me in Villavicencio. @cafm_99
+Systems and Computer Engineer 👨‍💻 with a strong background in developing AI agents 🤖 using Microsoft Copilot, integrating .yaml files, and making API calls for indexed searches in Procore. Skilled in comparative testing with GPT-4 and o1, incorporating cosine-based validation ✅ and tools like deepeval to ensure accuracy. Experienced in configuring test environments with Langfuse, Tugboat 🏗️, and deploying solutions via CircleCI, Databricks, and SQL.
 
-<!---
-Lokolab666/Lokolab666 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+At Telconet, I spearheaded the creation of pipelines for Computer Vision (YOLO) and large language models (Mistral, Llama), implementing RAG and TTS/STT solutions with Nvidia Riva and TensorRT for banking and customer service use cases 💳. Proficient in container orchestration and CI/CD pipelines with Kubernetes, Jenkins, ArgoCD, Helm Charts ⛵, Docker containers 🐳, and Nvidia utilities in Linux environments 🐧.
